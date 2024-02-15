@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    h1{
+        color: azure;
+       margin-left: 40px;
+    } 
+    h2{
+        color: azure;
+        margin-left: 25px;
+    }
+    li{
+        color: azure;
+        margin-left: 25px;
+    }
+   
+}
